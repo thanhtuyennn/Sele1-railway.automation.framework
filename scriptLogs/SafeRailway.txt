@@ -1,0 +1,288 @@
+[2024-01-24 22:31:46,443 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 01: Open login page
+[2024-01-24 22:31:47,186 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 02: Login page
+[2024-01-24 22:31:48,828 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 03: Verify register success
+[2024-01-24 22:31:48,889 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:31:48,889 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 04: Click to logout button
+[2024-01-24 22:31:50,377 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 01: Open login page
+[2024-01-24 22:31:51,059 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 02: Enter password
+[2024-01-24 22:31:51,173 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 03: Click login button
+[2024-01-24 22:31:51,858 INFO safe.railway.user.User_01_Login_Logout] - TC02- Step 04: Verify error message displays
+[2024-01-24 22:31:51,913 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:31:51,926 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 01: Login page
+[2024-01-24 22:31:52,677 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 02: enter emailaddress
+[2024-01-24 22:31:52,797 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 03: Enter password
+[2024-01-24 22:31:52,914 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 04: Click login button
+[2024-01-24 22:31:53,765 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 05: Verify error message
+[2024-01-24 22:31:53,816 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:31:53,823 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 01: Login page
+[2024-01-24 22:31:54,453 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 02: Enter valid infor 1 time
+[2024-01-24 22:31:55,479 INFO safe.railway.user.User_01_Login_Logout] - TC04- Step 03: Verify error
+[2024-01-24 22:31:55,568 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:31:55,569 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 04: Enter valid infor many times
+[2024-01-24 22:31:58,553 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 05: Verify error
+[2024-01-24 22:31:58,610 ERROR safe.railway.user.User_01_Login_Logout] - -------------------FAILED-------------------
+[2024-01-24 22:31:58,625 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 01: Open register page
+[2024-01-24 22:31:59,246 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 02: Creae new account
+[2024-01-24 22:32:02,855 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 03: Open login page
+[2024-01-24 22:32:03,474 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 04: Enter email to textbox
+[2024-01-24 22:32:03,582 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 05: Enter password to textbox
+[2024-01-24 22:32:03,679 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 06: Click login button
+[2024-01-24 22:32:04,347 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 07: Verify error message: Invalid username or password. Please try again.
+[2024-01-24 22:32:04,415 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:04,423 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 01: Open login page
+[2024-01-24 22:32:05,111 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 02: Login page
+[2024-01-24 22:32:06,651 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 03: Open FAQ tab
+[2024-01-24 22:32:10,812 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 04: Click log out button
+[2024-01-24 22:32:12,053 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 05: Verify logout button is not displayed
+[2024-01-24 22:32:17,110 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:17,135 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 01: Open home page
+[2024-01-24 22:32:17,136 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 02: Open register page
+[2024-01-24 22:32:17,901 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 03: Create new account
+[2024-01-24 22:32:19,110 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 04: Verify error: This email address is already in use. 
+[2024-01-24 22:32:19,160 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:19,169 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 01: Open register page
+[2024-01-24 22:32:19,807 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 02: Create new account
+[2024-01-24 22:32:20,981 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 03: Verify error message
+[2024-01-24 22:32:21,069 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:21,070 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 04: Verify error message: Invalid password length
+[2024-01-24 22:32:21,136 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:21,138 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 05: Verify error message: Invalid ID length
+[2024-01-24 22:32:21,211 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:21,222 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 01: Open home page
+[2024-01-24 22:32:22,177 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 02: Verify create account link is displayed
+[2024-01-24 22:32:22,403 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:22,403 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 03: Click create account link
+[2024-01-24 22:32:23,550 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 04: Verify page tittle
+[2024-01-24 22:32:23,554 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:23,554 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 05: Create new account
+[2024-01-24 22:32:26,126 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 06: Verify success message
+[2024-01-24 22:32:26,215 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:26,216 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 07: Open guerrilla mail Page
+[2024-01-24 22:32:26,216 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 08: Get guerrilla link
+[2024-01-24 22:32:27,754 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 09: Open detail email
+[2024-01-24 22:32:38,399 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 10: Active account
+[2024-01-24 22:32:38,651 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 11: Switch to confirm page
+[2024-01-24 22:32:41,689 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 12: Verify message: Registration Confirmed! You can now log in to the site.
+[2024-01-24 22:32:41,795 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:32:41,808 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 01: Login page
+[2024-01-24 22:32:42,589 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 02: Open forgot password link
+[2024-01-24 22:32:43,309 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 03: Enter email to password reset form
+[2024-01-24 22:32:45,373 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 04: Open guerrilla mail page
+[2024-01-24 22:32:45,373 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 05: Login page
+[2024-01-24 22:32:50,061 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 06: open Reset Password Mail
+[2024-01-24 22:32:57,663 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 07: open Reset Link
+[2024-01-24 22:32:57,873 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 08: Switch to confirm page
+[2024-01-24 22:33:01,243 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 09: Fill in password change form
+[2024-01-24 22:33:02,552 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 10: Verify error message
+[2024-01-24 22:33:02,640 ERROR safe.railway.user.User_01_Login_Logout] - -------------------FAILED-------------------
+[2024-01-24 22:33:02,646 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 01: Login page
+[2024-01-24 22:33:03,697 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 02: Open register page
+[2024-01-24 22:33:04,825 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 03: Create new account
+[2024-01-24 22:33:07,773 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 04: oOpen guerrilla mail page
+[2024-01-24 22:33:07,773 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 05: get guerrillamail link 
+[2024-01-24 22:33:09,848 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 06: open detail mail
+[2024-01-24 22:33:20,118 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 07: Active account
+[2024-01-24 22:33:20,327 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 08: Switch to confirm page
+[2024-01-24 22:33:23,362 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 01: Login page
+[2024-01-24 22:33:24,045 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 02: Open forgot password link
+[2024-01-24 22:33:24,714 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 03: Enter email to password reset form
+[2024-01-24 22:33:26,526 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 04: Open guerrilla mail page
+[2024-01-24 22:33:26,526 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 05: Login page
+[2024-01-24 22:33:30,568 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 06: open Reset Password Mail
+[2024-01-24 22:33:38,511 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 07: open Reset Link
+[2024-01-24 22:33:38,678 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 08: Switch to confirm page
+[2024-01-24 22:33:41,910 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 11: Fill in password change form
+[2024-01-24 22:33:43,080 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 12: Verify error message
+[2024-01-24 22:33:43,144 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:43,144 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 13: Verify error message
+[2024-01-24 22:33:43,226 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:43,232 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 01: Open home page
+[2024-01-24 22:33:44,133 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 01: Open login page
+[2024-01-24 22:33:44,944 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 02: Login page
+[2024-01-24 22:33:46,903 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 03: Open book ticket tab
+[2024-01-24 22:33:47,730 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 04: Select depart date
+[2024-01-24 22:33:48,150 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 05: Select departure
+[2024-01-24 22:33:50,526 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 06: Select arrival
+[2024-01-24 22:33:50,874 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 07: Select seat type
+[2024-01-24 22:33:51,265 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 08: Select ticket amount
+[2024-01-24 22:33:51,400 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 09: Click book button
+[2024-01-24 22:33:52,453 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 10: Verify book success MSG
+[2024-01-24 22:33:52,518 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,518 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 11: Verify depart station infor
+[2024-01-24 22:33:52,586 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,586 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 12: Verify arrive station infor
+[2024-01-24 22:33:52,668 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,668 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 13: Login page
+[2024-01-24 22:33:52,734 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,734 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 14: Verify depart date infor
+[2024-01-24 22:33:52,800 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,800 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 15: Verify amount infor
+[2024-01-24 22:33:52,877 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:33:52,877 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 16: Click to logout button
+[2024-01-24 22:33:54,033 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 00: Open home page
+[2024-01-24 22:33:54,983 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 01: Open login page
+[2024-01-24 22:33:55,796 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 02: Login page
+[2024-01-24 22:33:57,439 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 03: Open book ticket tab
+[2024-01-24 22:33:58,155 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 04: Verify depart date
+[2024-01-24 22:33:58,551 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 05: Verify departure
+[2024-01-24 22:34:00,961 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 06: Verify arrival
+[2024-01-24 22:34:01,062 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 07: Select seat type
+[2024-01-24 22:34:01,430 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 08: Select ticket amount
+[2024-01-24 22:34:01,806 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 09: Click book button
+[2024-01-24 22:34:02,762 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 10: Verify book success MSG
+[2024-01-24 22:34:02,821 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:02,821 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 11: Verify depart station infor
+[2024-01-24 22:34:02,893 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:02,893 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 12: Verify arrive station infor
+[2024-01-24 22:34:02,963 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:02,963 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 13: Verify seat type infor
+[2024-01-24 22:34:03,035 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:03,035 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 14: Get depart date infor
+[2024-01-24 22:34:03,095 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:03,095 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 15: Get ammount infor
+[2024-01-24 22:34:03,160 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:03,160 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 16: Click to logout button
+[2024-01-24 22:34:04,515 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 00: Open home page
+[2024-01-24 22:34:05,524 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 01: Open login page
+[2024-01-24 22:34:06,213 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 02: Login page
+[2024-01-24 22:34:07,881 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 03: Open timetable
+[2024-01-24 22:34:08,589 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 04: Click on check price Da Nang - SG
+[2024-01-24 22:34:09,444 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 05: Verify page title
+[2024-01-24 22:34:09,522 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,523 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 06: Verify Sticket table title
+[2024-01-24 22:34:09,589 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,589 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 07: Verify HSP price
+[2024-01-24 22:34:09,652 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,652 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 08: Verify SS price
+[2024-01-24 22:34:09,714 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,714 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 09: Verify SSC price
+[2024-01-24 22:34:09,793 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,793 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 10: Verify HBP price
+[2024-01-24 22:34:09,867 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,867 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 11: Verify SB price
+[2024-01-24 22:34:09,931 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,931 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 12: Verify SBC price
+[2024-01-24 22:34:09,987 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:09,987 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 13: Click to logout button
+[2024-01-24 22:34:11,367 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 01: Open home page
+[2024-01-24 22:34:12,390 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 02: Open register page
+[2024-01-24 22:34:13,056 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 03: Create new account
+[2024-01-24 22:34:16,143 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 04: Open guerrilla mail page 
+[2024-01-24 22:34:16,143 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 05: Get guerrillamail link
+[2024-01-24 22:34:17,641 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 06: Open detail mail
+[2024-01-24 22:34:28,285 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 07: Active account
+[2024-01-24 22:34:28,594 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 08: Switch to confirm page
+[2024-01-24 22:34:31,644 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 09: Open login page
+[2024-01-24 22:34:32,454 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 10: Login page
+[2024-01-24 22:34:33,995 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 11: Open time table
+[2024-01-24 22:34:34,642 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 12: Click on route Quang Ngai - Hue
+[2024-01-24 22:34:35,338 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 13: Select departure
+[2024-01-24 22:34:35,477 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:35,477 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 14: Select arrival
+[2024-01-24 22:34:35,607 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:35,607 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 15: Select depart date
+[2024-01-24 22:34:35,979 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 16: Select ticket amount
+[2024-01-24 22:34:36,337 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 17: Click book button
+[2024-01-24 22:34:37,301 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 18: Verify success MSG
+[2024-01-24 22:34:37,375 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:37,375 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 19: Verify depart station infor
+[2024-01-24 22:34:37,449 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:37,449 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 20: Verify arrive station infor
+[2024-01-24 22:34:37,513 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:37,513 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 21: Verify depart date infor
+[2024-01-24 22:34:37,572 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:37,572 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 22: Verify amount infor
+[2024-01-24 22:34:37,613 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:34:37,614 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 23: Click to logout button
+[2024-01-24 22:34:38,864 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 01: Login page
+[2024-01-24 22:34:39,835 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 02: Open register page
+[2024-01-24 22:34:40,491 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 03: Create new account
+[2024-01-24 22:34:43,351 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 04: oOpen guerrilla mail page
+[2024-01-24 22:34:43,351 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 05: get guerrillamail link 
+[2024-01-24 22:34:44,589 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 06: open detail mail
+[2024-01-24 22:34:55,546 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 07: Active account
+[2024-01-24 22:34:55,804 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 08: Switch to confirm page
+[2024-01-24 22:34:58,845 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 09: Open login page
+[2024-01-24 22:34:59,576 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 10: Login page
+[2024-01-24 22:35:01,235 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 11: Open book ticket tab
+[2024-01-24 22:35:01,911 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 12: Select depart date
+[2024-01-24 22:35:02,323 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 13: Select departure
+[2024-01-24 22:35:04,685 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 14: Select arrival
+[2024-01-24 22:35:05,047 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 15: Select seat type
+[2024-01-24 22:35:05,422 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 16: Select ticket amount
+[2024-01-24 22:35:05,568 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 17: Click book button
+[2024-01-24 22:35:06,651 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 18: Open my ticket page
+[2024-01-24 22:35:07,376 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 19: Click cancel button
+[2024-01-24 22:35:07,651 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 20: Click ok button
+[2024-01-24 22:35:07,702 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 21: Verify cancelled ticket is undisplayed
+[2024-01-24 22:35:07,766 ERROR safe.railway.user.User_01_Login_Logout] - -------------------FAILED-------------------
+[2024-01-24 22:35:07,767 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 22: Click to logout button
+[2024-01-24 22:35:39,257 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 01: Open login page
+[2024-01-24 22:35:40,035 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 02: Login page
+[2024-01-24 22:35:41,944 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 03: Verify register success
+[2024-01-24 22:35:42,026 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:35:42,026 INFO safe.railway.user.User_01_Login_Logout] - TC01 - Step 04: Click to logout button
+[2024-01-24 22:35:43,582 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 01: Open login page
+[2024-01-24 22:35:44,321 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 02: Enter password
+[2024-01-24 22:35:44,600 INFO safe.railway.user.User_01_Login_Logout] - TC02 - Step 03: Click login button
+[2024-01-24 22:35:45,415 INFO safe.railway.user.User_01_Login_Logout] - TC02- Step 04: Verify error message displays
+[2024-01-24 22:35:45,515 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:35:45,523 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 01: Login page
+[2024-01-24 22:35:46,285 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 02: enter emailaddress
+[2024-01-24 22:35:46,580 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 03: Enter password
+[2024-01-24 22:35:46,847 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 04: Click login button
+[2024-01-24 22:35:47,594 INFO safe.railway.user.User_01_Login_Logout] - TC03 - Step 05: Verify error message
+[2024-01-24 22:35:47,700 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:35:47,708 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 01: Login page
+[2024-01-24 22:35:48,435 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 02: Enter valid infor 1 time
+[2024-01-24 22:35:49,739 INFO safe.railway.user.User_01_Login_Logout] - TC04- Step 03: Verify error
+[2024-01-24 22:35:49,842 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:35:49,842 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 04: Enter valid infor many times
+[2024-01-24 22:35:53,730 INFO safe.railway.user.User_01_Login_Logout] - TC04 - Step 05: Verify error
+[2024-01-24 22:35:53,863 ERROR safe.railway.user.User_01_Login_Logout] - -------------------FAILED-------------------
+[2024-01-24 22:35:53,872 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 01: Open register page
+[2024-01-24 22:35:54,625 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 02: Creae new account
+[2024-01-24 22:35:57,743 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 03: Open login page
+[2024-01-24 22:35:58,473 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 04: Enter email to textbox
+[2024-01-24 22:35:58,791 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 05: Enter password to textbox
+[2024-01-24 22:35:58,989 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 06: Click login button
+[2024-01-24 22:35:59,508 INFO safe.railway.user.User_01_Login_Logout] - TC05 - Step 07: Verify error message: Invalid username or password. Please try again.
+[2024-01-24 22:35:59,834 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:35:59,841 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 01: Open login page
+[2024-01-24 22:36:00,668 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 02: Login page
+[2024-01-24 22:36:02,357 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 03: Open FAQ tab
+[2024-01-24 22:36:06,031 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 04: Click log out button
+[2024-01-24 22:36:07,381 INFO safe.railway.user.User_01_Login_Logout] - TC06 - Step 05: Verify logout button is not displayed
+[2024-01-24 22:36:12,472 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:12,480 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 01: Open home page
+[2024-01-24 22:36:12,480 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 02: Open register page
+[2024-01-24 22:36:13,210 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 03: Create new account
+[2024-01-24 22:36:14,518 INFO safe.railway.user.User_01_Login_Logout] - TC07 - Step 04: Verify error: This email address is already in use. 
+[2024-01-24 22:36:14,573 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:14,576 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 01: Open register page
+[2024-01-24 22:36:15,268 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 02: Create new account
+[2024-01-24 22:36:16,599 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 03: Verify error message
+[2024-01-24 22:36:16,687 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:16,687 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 04: Verify error message: Invalid password length
+[2024-01-24 22:36:16,774 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:16,774 INFO safe.railway.user.User_01_Login_Logout] - TC08 - Step 05: Verify error message: Invalid ID length
+[2024-01-24 22:36:16,850 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:16,854 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 01: Open home page
+[2024-01-24 22:36:17,803 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 02: Verify create account link is displayed
+[2024-01-24 22:36:17,871 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:17,871 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 03: Click create account link
+[2024-01-24 22:36:18,616 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 04: Verify page tittle
+[2024-01-24 22:36:18,624 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:18,624 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 05: Create new account
+[2024-01-24 22:36:21,305 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 06: Verify success message
+[2024-01-24 22:36:21,383 INFO safe.railway.user.User_01_Login_Logout] - -------------------PASSED-------------------
+[2024-01-24 22:36:21,383 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 07: Open guerrilla mail Page
+[2024-01-24 22:36:21,383 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 08: Get guerrilla link
+[2024-01-24 22:36:24,194 INFO safe.railway.user.User_01_Login_Logout] - TC09 - Step 09: Open detail email
+[2024-01-24 22:36:44,720 INFO safe.railway.user.User_01_Login_Logout] - TC10 - Step 01: Login page
+[2024-01-24 22:37:25,416 INFO safe.railway.user.User_01_Login_Logout] - TC11 - Step 01: Login page
+[2024-01-24 22:38:06,099 INFO safe.railway.user.User_01_Login_Logout] - TC12 - Step 01: Open home page
+[2024-01-24 22:38:46,717 INFO safe.railway.user.User_01_Login_Logout] - TC13 - Step 00: Open home page
+[2024-01-24 22:39:27,414 INFO safe.railway.user.User_01_Login_Logout] - TC14 - Step 00: Open home page
+[2024-01-24 22:40:08,053 INFO safe.railway.user.User_01_Login_Logout] - TC15 - Step 01: Open home page
+[2024-01-24 22:40:48,697 INFO safe.railway.user.User_01_Login_Logout] - TC16 - Step 01: Login page
